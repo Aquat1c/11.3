@@ -1,0 +1,3 @@
+﻿  11.3.cpp
+C:\Users\Aquatic\source\repos\11.3\11.3\11.3.cpp(182,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  11.3.vcxproj -> C:\Users\Aquatic\source\repos\11.3\Debug\11.3.exe
